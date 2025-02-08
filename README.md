@@ -20,9 +20,7 @@ Real-Time-News
 
 ## Real-World Application
 - Provides users with **live updates** on current events.  
-- Can be extended to include features like **search functionality**, **personalized recommendations**, and **dark mode**.  
-
-## Interdisciplinary Learning
+ ## Interdisciplinary Learning
 - Combines **web development** with **data handling and API consumption**.  
 - Offers insights into **optimizing performance and UI responsiveness**.  
 
@@ -50,23 +48,9 @@ Real-Time-News
 - Implemented **React Hooks** and **Context API** to manage application state.  
 - Optimized performance by reducing unnecessary re-renders.  
 
-## Deployment
-- Can be deployed on **Vercel, Netlify, or Firebase** for easy access.  
-- Configured to work with **News API keys** securely stored in environment variables.  
-
 ## Documentation
 - Includes clear documentation on **setup, API integration, and features**.  
-- Provides a step-by-step guide for users and contributors.  
-
-## Future Enhancements
-- Add **search functionality** to filter news by keywords.  
-- Implement **user authentication** for a personalized news feed.  
-- Introduce a **dark mode** toggle for better user experience.  
-
----
-
-## Project Link  
-[Live Demo](https://your-news-app-link.com)  
+- Provides a step-by-step guide for users and contributors.   
 
 ## Tech Stack  
 - **Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind  
