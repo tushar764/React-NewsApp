@@ -56,5 +56,5 @@ Real-Time-News
 - **Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind  
 - **State Management:** React Hooks, Context API  
 - **API:** RESTful API (News API)  
-- **Deployment:** Vercel / Netlify / Firebase
+
 
